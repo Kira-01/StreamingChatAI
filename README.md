@@ -11,8 +11,7 @@ A production-grade, highly resilient streaming AI chat interface built with **Ne
 
 ## 🌐 Live Preview & Submission Links
 
-- **🚀 Live Preview URL**: [https://streaming-ai-chat-interface-xi.vercel.app/](https://streaming-ai-chat-interface-xi.vercel.app/)
-- **📁 GitHub Repository**: [https://github.com/mudasirabro/streaming-ai-chat-interface](https://github.com/mudasirabro/streaming-ai-chat-interface)
+- **🚀 Live Preview URL**: [https://streaming-chat-ai.vercel.app/](https://streaming-chat-ai.vercel.app/)
 - **⚡ Streaming Route Handler**: [`src/app/api/chat/route.ts`](https://github.com/mudasirabro/streaming-ai-chat-interface/blob/main/src/app/api/chat/route.ts)
 - **⚙️ Model Configuration Module**: [`src/lib/ai/config.ts`](https://github.com/mudasirabro/streaming-ai-chat-interface/blob/main/src/lib/ai/config.ts)
 - **💬 Primary Chat Component**: [`src/components/chat/ChatContainer.tsx`](https://github.com/mudasirabro/streaming-ai-chat-interface/blob/main/src/components/chat/ChatContainer.tsx)
