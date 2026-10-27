@@ -2,8 +2,8 @@
 
 A production-grade, highly resilient streaming AI chat interface built with **Next.js 15 (App Router)**, **Vercel AI SDK**, **Google Gemini Free Tier (with Multi-Provider Architecture)**, **Tailwind CSS**, and **Framer Motion**.
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://streaming-ai-chat-interface-xi.vercel.app/)
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mudasirabro/streaming-ai-chat-interface)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://streaming-chat-ai.vercel.app/)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kira-01/StreamingChatAI)
 [![Next.js 15](https://img.shields.io/badge/Next.js-15-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
 [![Vercel AI SDK](https://img.shields.io/badge/Vercel%20AI%20SDK-v4-blue?style=for-the-badge)](https://ai-sdk.dev/)
 
